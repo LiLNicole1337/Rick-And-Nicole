@@ -28,7 +28,7 @@ nav{
 }
 
 main{
-    background:url(Background.jpg)no-repeat center center;
+    background:url(../Background.jpg)no-repeat center center;
     background-size: cover;
     height: 92vh;
 }
