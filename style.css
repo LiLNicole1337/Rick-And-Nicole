@@ -28,7 +28,7 @@ nav{
 }
 
 main{
-    background:url(github.com/LiLNicole1337/Rick-And-Nicole/blob/main/Background.jpg?raw=true)no-repeat center center;
+    background:url('github.com/LiLNicole1337/Rick-And-Nicole/blob/main/Background.jpg?raw=true')no-repeat center center;
     background-size: cover;
     height: 92vh;
 }
