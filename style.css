@@ -28,7 +28,7 @@ nav{
 }
 
 main{
-    background:url(imgs/wallpapersden.com_jojo-s-bizarre-adventure-stardust-crusaders_2048x1152.jpg)no-repeat center center;
+    background:url(Background.jpg)no-repeat center center;
     background-size: cover;
     height: 92vh;
 }
