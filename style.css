@@ -28,8 +28,10 @@ nav{
 }
 
 main{
-    background:url(imgs/Background.jpg)no-repeat center center;
+    background-image: url(../imgs/Background.jpg) ;
+    background-repeat: no-repeat ;
     background-size: cover;
+    background-position :center center ;
     height: 92vh;
 }
 
