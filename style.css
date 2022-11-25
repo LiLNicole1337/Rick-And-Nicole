@@ -108,3 +108,16 @@ main{
   .mobile-menu.active .line3 {
     transform: rotate(45deg) translate(-5px, -7px);
   }
+  .btn{
+    background-color: black;
+    padding: auto;
+    margin: auto;
+    width: 80px;
+    height: 80px;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+  }
